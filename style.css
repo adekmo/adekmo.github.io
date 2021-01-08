@@ -313,7 +313,7 @@ p
 {
 	position: relative;
 	padding: 100px 0;
-	background: url(img/db2.JPG);
+	background: url('img/db2.JPG');
 	background-size: cover;
 	min-height: 100vh;
 }
